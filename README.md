@@ -1,3 +1,5 @@
+# Streamable wants to be a douche and made their public upload endpoint basically unusable unless you upload very small files.
+
 <h1 align="center">Streamable Uploader</h1>
 
 <p align="center"><img src="./Assets/Icon.png" width=250 align="center"></p>
